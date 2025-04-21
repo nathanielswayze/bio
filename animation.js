@@ -1,4 +1,4 @@
-// SCRIPT SKIDDED FROM FROGGIE!!!
+// SCRIPT SKIDDED FROM FROGGIE!!! 
 
 // errr
 const textElement = document.getElementById("text");
