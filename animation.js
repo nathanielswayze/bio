@@ -1,4 +1,4 @@
-// SCRIPT SKIDDED FROM FROGGIE!!! 
+// SCRIPT SKIDDED FROM FROGGIE!!!
 
 // errr
 const textElement = document.getElementById("text");
@@ -32,7 +32,7 @@ const phrases = [
 ];
 
 // these are in seconds btw
-const delays = [1.89, 0.65, 0.67, 0.50, 0.45, 0.65, 0.67, 0.65, 0.65, 0.65, 0.65, 0.50, 0.45, 0.45, 0.45, 0.45, 0.65, 0.65, 0.60, 0.50, 0.35, 1.00];
+const delays = [1.89, 0.65, 0.67, 0.50, 0.45, 0.65, 0.67, 0.55, 0.55, 0.55, 0.55, 0.56, 0.45, 0.45, 0.45, 0.45, 0.65, 0.65, 0.60, 0.65, 0.35, 1.65];
 
 overlay.addEventListener("click", () => {
     textElement.textContent = "";
